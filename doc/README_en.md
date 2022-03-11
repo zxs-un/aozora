@@ -1,7 +1,7 @@
 # AOZORA
 
 Language:
-[English](/doc/README.md)
+[English](/doc/README_en.md)
 [中文](/doc/README_zhs.md)
 [Deutsch](/doc/README_de.md)
 [日本語](/doc/README_jp.md)
@@ -38,4 +38,4 @@ providing an open and easy platform for educational purposes.
 - Drass: [C74-6502 CPU](https://c74project.com/)
 - MOS: [6502](http://6502.org/) [Block Diagram](https://www.witwright.com/DonPub/6502-Block-Diagram.pdf)
 - [USC EE 459Lx Lab](https://ece-classes.usc.edu/ee459/): [Reference Library](https://ece-classes.usc.edu/ee459/library/)
-
+- [Skot Croshere](http://skot9000.com/): [Logic Datasheets](http://skot9000.com/posts/2011/04/28/logic.html) [Collection](http://skot9000.com/ttl/datasheets/)
